@@ -27,6 +27,9 @@ to install.
 
 ## Files
 
+**Instructor Guide:** [Module 2 Lab - Instructor Guide - Numerical Computation.pdf](Module%202%20Lab%20-%20Instructor%20Guide%20-%20Numerical%20Computation.pdf)
+— timing, common errors and the exercise answer key.
+
 The `module2` folder holds the finished lab files, for checking your own work
 after you have typed them yourself from the handout.
 
